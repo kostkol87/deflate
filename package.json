@@ -10,9 +10,5 @@
   "license": "ISC",
   "devDependencies": {
     "http-server": "^0.9.0"
-  },
-  "dependencies": {
-    "pako": "^1.0.3",
-    "requirejs": "^2.3.2"
   }
 }
